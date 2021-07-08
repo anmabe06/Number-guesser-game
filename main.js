@@ -1,3 +1,6 @@
+//Code by anmabe06
+//July 1st of 2021
+
 console.log("WELCOME TO THE NUMBER GUESSER");
 console.log("\nThe game is divided into different difficulties, you will advance in the difficulty level as you gain points. The difficulty level sets the range of the number you are trying to guess:\n   Easy --> 0 - 9\n   Medium --> 10 - 99\n   Hard --> 100 - 999\n   Impossible --> 1000 - 9999");
 console.log("\nLet the fun begin!!");
